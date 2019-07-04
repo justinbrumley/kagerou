@@ -22,7 +22,7 @@ If there's 2 buttons: you are on legacy. Get [Latest](https://github.com/hibiyas
 No download needed, please first read `Warning` above.
 Use this as overlay URL:
 
-> `https://hibiyasleep.github.io/kagerou/overlay`
+> `https://justinbrumley.github.io/kagerou/overlay/`
 
 ![act-settings](https://veltall.github.io/kagerou/images/act-settings.png)
 
